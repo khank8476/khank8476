@@ -1,14 +1,10 @@
-# Hi, I'm Kamran Khan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi, I'm Kamran Khan
 
-<table>
-<tr>
-  <td valign="center">
+
     🎓 I am a **Digital Marketing Consultant** and **Full Stack Web Developer**
     🎯 I have experience in handling successful **SEO, PPC and Social Media Markeing Campaigns**
     👨 I have made websites from **SPA and landing pages to full stack web3 Dapps**
-  </td>
-</tr>
-</table>
+
 
 <!--
 **khank8476/khank8476** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
