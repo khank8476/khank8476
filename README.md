@@ -1,7 +1,7 @@
 # Hi, I'm Kamran Khan
-🎓 I am a **Digital Marketing Consultant** and **Full Stack Web Developer**
-🎯 I have experience in handling successful **SEO, PPC and Social Media Markeing Campaigns**
-👨 I have made websites from **SPA and landing pages to full stack web3 Dapps**
+    🎓 I am a **Digital Marketing Consultant** and **Full Stack Web Developer**
+    🎯 I have experience in handling successful **SEO, PPC and Social Media Markeing Campaigns**
+    👨 I have made websites from SPA and landing pages to full stack web3 Dapps
 
 <!--
 **khank8476/khank8476** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
